@@ -56,5 +56,3 @@ Bug reports, feature requests, and pull requests are welcome! Please open an iss
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
