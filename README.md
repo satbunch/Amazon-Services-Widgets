@@ -35,7 +35,7 @@ cd amazon-services-widgets
 
 ```
 
-amazon-service-widgets/
+amazon-services-widgets/
 ├── manifest.json    # Extension manifest (permissions, content scripts, options\_ui)
 ├── content.js       # Script that injects widgets into Amazon’s DOM
 └── options
