@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Amazon Services Widgets",
+  "version": "1.7",
+  "description": "Amazonトップページにサービスウィジェットを表示します",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "options_ui": {
+    "page": "options/options.html",
+    "open_in_tab": true
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.amazon.co.jp/*",
+        "*://www.amazon.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_end"
+    }
+  ]
+}
