@@ -14,13 +14,12 @@ A lightweight Chrome extension that displays user‑selectable service widgets o
 
 1. Clone or download this repository:
 
-   ```bash
-   ```
-
+```bash
 git clone [https://github.com/](https://github.com/)satbunch/amazon-services-widgets.git
 cd amazon-services-widgets
-
 ```
+
+
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer mode** in the top‑right corner.
 4. Click **Load unpacked**, then select the `amazon-service-widgets` folder.
