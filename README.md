@@ -15,7 +15,7 @@ A lightweight Chrome extension that displays user‑selectable service widgets o
 1. Clone or download this repository:
 
 ```bash
-git clone [https://github.com/](https://github.com/)satbunch/amazon-services-widgets.git
+git clone https://github.com/satbunch/amazon-services-widgets.git
 cd amazon-services-widgets
 ```
 
