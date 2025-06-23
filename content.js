@@ -21,6 +21,11 @@
         { tag: 'a', text: 'Manage Kindle', url: 'https://www.amazon.co.jp/gp/kindle/ku/ku_central?ref_=nav_AccountFlyout_ku' }
       ]
     },
+    prime_video: {
+      elements: [
+        { tag: 'a', text: 'Prime Video', url: 'https://www.amazon.co.jp/gp/video/storefront?ref_=nav_em_aiv_vid_0_2_2_2' }
+      ]
+    },
   };
 
   const insertWidgets = () => {
